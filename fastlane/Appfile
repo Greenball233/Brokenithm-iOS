@@ -1,8 +1,8 @@
-app_identifier("com.estertion.brokenithm-ios") # The bundle identifier of your app
-apple_id("superk589@gmail.com") # Your Apple email address
+app_identifier("com.gb.brokenithm-ios") # The bundle identifier of your app
+apple_id("3120393927@qq.com") # Your Apple email address
 
-itc_team_id("118308934") # App Store Connect Team ID
-team_id("MXJJEEMF3U") # Developer Portal Team ID
+itc_team_id("18759126933") # App Store Connect Team ID
+team_id("K36KKPG9L8") # Developer Portal Team ID
 
 # For more information about the Appfile, see:
 #     https://docs.fastlane.tools/advanced/#appfile
